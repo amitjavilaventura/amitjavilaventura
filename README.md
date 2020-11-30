@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Adrià Mitjavila, a biotechnologist living around computers and seeking for a PhD student in Computational Biology. I am currently working in an Epigenetics group, focussing my effots in omics analysis in support to experimental research and in mainly computational projects related to the goals of the group. I am looking forward to learn some programming, specially in R and Pyhton.
+
+Apart from science, I love scientific divulgation -I have recently created a blog focussed to spreading bioinformatics to society named [BioBit](https://biobit.netlify.app) and practicing sport, specially rowing -sport in which I competed at international level-.
+
+See more about me in [my personal website](https://amitjavilaventura.github.io).
+
+
 <!--
 **amitjavilaventura/amitjavilaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
