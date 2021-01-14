@@ -8,6 +8,11 @@ Apart from science, I love scientific divulgation -I have recently created a blo
 
 See more about me in [my personal website](https://amitjavilaventura.github.io).
 
+<br>
+
+<center>
+![github stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&show_icons=true&theme=radical&count_private=true)
+</center>
 
 <!--
 **amitjavilaventura/amitjavilaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
