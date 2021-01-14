@@ -14,6 +14,19 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 [![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+Show Readme Stats
+-->
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" alt="amitjavilaventura's Github Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&hide=html&layout=compact"  alt="amitjavilaventura's Top Used Languages"/>
+</a>
+
+<!--
 **amitjavilaventura/amitjavilaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
