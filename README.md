@@ -11,7 +11,7 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 <br>
 
 [![amitjavilaventura's Github Stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura?hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura?hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **amitjavilaventura/amitjavilaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
