@@ -10,8 +10,12 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 
 <br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjavilaventura&show_icons=true&theme=radical&count_private=true)" alt="AMitjavilaVenutra's github stats" />
+</a>
+
 <center>
-![github stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&show_icons=true&theme=radical&count_private=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&show_icons=true&theme=radical&count_private=true)]
 </center>
 
 <!--
