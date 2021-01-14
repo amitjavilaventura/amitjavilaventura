@@ -10,20 +10,22 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 
 <br>
 
-[![amitjavilaventura's Github Stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 Show Readme Stats
+
+[![amitjavilaventura's Github Stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&count_private=true&show_icons=true&theme=radical" alt="amitjavilaventura's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitjavilaventura&count_private=true&show_icons=true&theme=radical" alt="amitjavilaventura's Github Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&hide=html&layout=compact"  alt="amitjavilaventura's Top Used Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitjavilaventura&hide=html&layout=compact"  alt="amitjavilaventura's Top Used Languages"/>
 </a>
 
 <!--
