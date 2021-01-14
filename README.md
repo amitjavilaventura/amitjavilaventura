@@ -10,11 +10,9 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 
 <br>
 
-<center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjavilaventura&show_icons=true&theme=radical&count_private=true)" alt="AMitjavilaVenutra's GitHub stats" />
-</a>
-</center>
+[![amitjavilaventura's Github Stats](https://github-readme-stats.vercel.app/api?username=amitjavilaventura)](https://github.com/anuraghazra/github-readme-stats)
+[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **amitjavilaventura/amitjavilaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
