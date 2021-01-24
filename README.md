@@ -6,7 +6,10 @@ I am currently working in an Epigenetics group, focussing my effots in omics ana
 
 Apart from science, I love scientific divulgation -I have recently created a blog named [BioBit](https://biobit.netlify.app) focussed to spreading bioinformatics to society- and practicing sport, specially rowing -sport in which I competed at international level-.
 
-If you use one of my repositories, cite me and give me a <i class="fas fa-star"></i>
+If you use one of my repositories, cite me and give me a star.
+
+<i class="fas fa-star"></i>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 See more about me in [my personal website](https://amitjavilaventura.github.io).
 
