@@ -8,9 +8,6 @@ Apart from science, I love scientific divulgation -I have recently created a blo
 
 If you use one of my repositories, cite me and give me a star.
 
-<i class="fas fa-star"></i>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-
 See more about me in [my personal website](https://amitjavilaventura.github.io).
 
 <br>
