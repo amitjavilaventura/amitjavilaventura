@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adrià Mitjavila, a biotechnologist living around computers and seeking for a PhD student in Computational Biology. 
+My name is Adrià Mitjavila, a biotechnologist living around computers.
 
 I am currently working in an Epigenetics group, focussing my effots in omics analyses in support to experimental research and in mainly computational projects related to the goals of the group. I am looking forward to learn some programming, specially in R and Pyhton.
 
