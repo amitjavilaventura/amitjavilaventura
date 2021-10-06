@@ -10,6 +10,8 @@ If you use one of my repositories, please cite me and give me a star.
 
 See more about me in [my personal website](https://amitjavilaventura.github.io).
 
+Take a look at my CV [here](https://amitjavilaventura.github.io/CVs/).
+
 <br>
 
 <center>
@@ -18,11 +20,6 @@ See more about me in [my personal website](https://amitjavilaventura.github.io).
 | ------------- | ------------- |
   
 </center>
-
-<!--
-Show Readme Stats
-[![amitjavilaventura's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjavilaventura&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <br>
 
