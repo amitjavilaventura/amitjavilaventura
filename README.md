@@ -6,9 +6,7 @@ Currently, I work at the [Institut Josep Carreras (IJC)](https://www.carrerasres
 
 I am interested in the (computational) study of small RNAs and the mechanisms of gene regulation in animals. I am also attracted for omics data analysis to support experimental research, and I am eager to learn a bit of programming, specially in R and Python.
 
-Apart from science, I love scientific divulgation -I have recently created a blog named [BioBit](https://biobit.netlify.app) focussed spreading bioinformatics to society- and practicing sport, specially rowing -sport in which I competed at international level-.
-
-If you use one of my repositories, please cite me and give me a star.
+If you use one of my repositories, please cite it and give me a star.
 
 See more about me in [my personal website](https://amitjavilaventura.github.io).
 
