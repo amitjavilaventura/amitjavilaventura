@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adrià Mitjavila Ventura, a biotechnologist living around computers.
+My name is Adrià Mitjavila Ventura, a biotechnologist working with computers.
 
 Currently, I work at the [Institut Josep Carreras (IJC)](https://www.carrerasresearch.org/en/) in the Regulatory Genomics group. Previously, I was a bioinformatician working in Epigenetics at the [Istituto Europeo di Oncologia (IEO)](https://www.research.ieo.it/).
 
