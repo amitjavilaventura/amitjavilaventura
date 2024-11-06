@@ -4,7 +4,7 @@ My name is Adrià Mitjavila Ventura, a biotechnologist working with computers.
 
 Currently, I work at the [Institut Josep Carreras (IJC)](https://www.carrerasresearch.org/en/) in the Regulatory Genomics group. Previously, I was a bioinformatician working in Epigenetics at the [Istituto Europeo di Oncologia (IEO)](https://www.research.ieo.it/).
 
-I am interested in the (computational) study of small RNAs and the mechanisms of gene regulation in animals. I am also attracted for omics data analysis to support experimental research, and I am eager to learn a bit of programming, specially in R and Python.
+I am interested in the (computational) study of small RNAs and the mechanisms of gene regulation in animals. I am also attracted for omics data analysis to support experimental research.
 
 If you use one of my repositories, please cite it and give me a star.
 
